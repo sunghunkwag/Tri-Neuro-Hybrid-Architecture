@@ -234,11 +234,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🐨 Acknowledgments
 
-> *"Designed by Eucalyptus-powered Koala Intelligence"*
 
 Special thanks to:
 - **Yann LeCun** (Meta) - JEPA architecture inspiration
-- **Ramin Hasani** (Liquid AI) - Liquid Neural Networks
 - **Anthropic/OpenAI** - Transformer research
 
 ---
