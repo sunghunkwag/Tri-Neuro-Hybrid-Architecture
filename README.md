@@ -232,12 +232,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🐨 Acknowledgments
-
-
-Special thanks to:
-- **Yann LeCun** (Meta) - JEPA architecture inspiration
-- **Anthropic/OpenAI** - Transformer research
 
 ---
 
