@@ -1,4 +1,4 @@
-# 🧠 Tri-Neuro Hybrid Architecture
+# Tri-Neuro Hybrid Architecture
 
 > **A Novel Modular AGI Framework Integrating Heterogeneous Neural Paradigms**
 
