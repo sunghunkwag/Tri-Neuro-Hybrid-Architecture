@@ -9,8 +9,7 @@ A modular AGI framework integrating:
 
 Through a unified latent manifold for inter-module communication.
 
-Author: Designed by Eucalyptus-powered Koala Intelligence
-License: MIT
+Author: Sunghun KwagLicense: MIT
 """
 
 import torch
